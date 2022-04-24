@@ -6,9 +6,9 @@ The Jupyter .ipynb notebooks should be explored in this order: <br>
 3) ML
 
 ## Contributors
-[@SigmaProtogen](https://github.com/SigmaProtogen) - Data Collection, Cleaning and Exploratory Data Analysis <br>
-[@susnirvik](https://github.com/susnirvik) - Random Forest and Gradient Boosting Classifiers <br>
-[@tmukh001](https://github.com/tmukh001) - Data Collection, Presentation <br>
+[@SigmaProtogen](https://github.com/SigmaProtogen) - Data Collection, Cleaning, Exploratory Data Analysis, Presentation <br>
+[@susnirvik](https://github.com/susnirvik) - Random Forest, Gradient Boosting, Naive Bayes, Presentation<br>
+[@tmukh001](https://github.com/tmukh001) - Data Sourcing, Presentation <br>
 
 ## Problem Definition
 > How can we identify whether a planet is habitable or not, and what metrics of a planetary system make it habitable?
